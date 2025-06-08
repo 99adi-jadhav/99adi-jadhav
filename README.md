@@ -17,7 +17,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge)](mailto:adityasjadhav77@gmail.com)
 
 ---
-
 ### 🛠️ Languages and Tools:
 
 <p align="left">
@@ -35,6 +34,7 @@
   <img src="https://img.shields.io/badge/-C++-000?style=for-the-badge&logo=c%2B%2B" />
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-000?style=for-the-badge&logo=visualstudiocode" />
 </p>
+
 
 
 
