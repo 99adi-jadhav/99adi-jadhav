@@ -34,18 +34,3 @@
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
-
-
-### 📊 GitHub Stats:
-
-![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=99adi-jadhav&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=99adi-jadhav&layout=compact&theme=radical)
-
----
-
-
----
-
-## 🔥 Current Streak:
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=99adi-jadhav&theme=radical)](https://git.io/streak-stats)
