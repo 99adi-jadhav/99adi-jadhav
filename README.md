@@ -17,39 +17,26 @@
 [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge)](mailto:adityasjadhav77@gmail.com)
 
 ---
+
 ### 🛠️ Languages and Tools:
 
-#### 🎨 Frontend:
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
+<p align="left">
+  <img src="https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=java" />
+  <img src="https://img.shields.io/badge/-Spring%20Boot-000?style=for-the-badge&logo=springboot" />
+  <img src="https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb" />
+  <img src="https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=mysql" />
+  <img src="https://img.shields.io/badge/-Postman-000?style=for-the-badge&logo=postman" />
+  <img src="https://img.shields.io/badge/-Linux-000?style=for-the-badge&logo=linux" />
+  <img src="https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/-C-000?style=for-the-badge&logo=c" />
+  <img src="https://img.shields.io/badge/-C++-000?style=for-the-badge&logo=c%2B%2B" />
+  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-000?style=for-the-badge&logo=visualstudiocode" />
+</p>
 
----
 
-#### 🖥️ Backend:
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![API](https://img.shields.io/badge/API%20Development-blueviolet?style=for-the-badge)
-
----
-
-#### 🗄️ Database:
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-#### ⚙️ Others:
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![STS](https://img.shields.io/badge/STS-6DB33F?style=for-the-badge)
-![Communication Skills](https://img.shields.io/badge/Communication%20Skills-blue?style=for-the-badge)
 
 ### 📊 GitHub Stats:
 
