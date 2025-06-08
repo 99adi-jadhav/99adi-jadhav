@@ -8,7 +8,7 @@
 - 📫 How to reach me **adityasjadhav77@gmail.com**
 
 ### 🧑‍💻 Connect with me:
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/aditya-jadhav-549063249/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/yourprofile)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge)](https://github.com/adityajadhav)
 [![Instagram](https://img.shields.io/badge/Instagram-purple?logo=instagram&style=for-the-badge)](https://instagram.com/yourprofile)
 [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge)](mailto:adityajadhav2000@gmail.com)
