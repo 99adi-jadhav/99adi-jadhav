@@ -3,12 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityajadhav&label=Profile%20views&color=0e75b6&style=flat" alt="adityajadhav" /> </p>
 
-- 🌱 I’m currently learning **Angular, TypeScript, and MongoDB**
-- 💬 Ask me about **Java, Angular, MongoDB**
-- 📫 How to reach me **adityajadhav2000@gmail.com**
+- 🌱 I’m currently learning **HTML, CSS , JS and Angular**
+- 💬 Ask me about **C,java,MongoDB**
+- 📫 How to reach me **adityasjadhav77@gmail.com**
 
 ### 🧑‍💻 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/yourprofile)
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/aditya-jadhav-549063249/))
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge)](https://github.com/adityajadhav)
 [![Instagram](https://img.shields.io/badge/Instagram-purple?logo=instagram&style=for-the-badge)](https://instagram.com/yourprofile)
 [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge)](mailto:adityajadhav2000@gmail.com)
