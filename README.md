@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=99adi-jadhav&label=Profile%20views&color=0e75b6&style=flat" alt="99adi-jadhav" /> </p>
 
-- 🌱 I’m currently learning **HTML, CSS, JS, and Angular**
-- 💬 Ask me about **C, Java, MongoDB**
+- 🌱 I’m currently learning **SpringBoot and Angular**
+- 💬 Ask me about **C, Java, MYSQL**
 - 📫 How to reach me **adityasjadhav77@gmail.com**
 
 ---
